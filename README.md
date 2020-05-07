@@ -1,4 +1,4 @@
-# Logo of ApiUnit
+# Logo of APIsql
 
 
 ![apisql-logo.png](apisql-logo.png)
